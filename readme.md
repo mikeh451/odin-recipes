@@ -1,0 +1,1 @@
+Using the skills I've learned so far in the Odin Project to create a recipes website. Links, images, lists, etc.
